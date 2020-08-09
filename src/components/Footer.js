@@ -9,9 +9,9 @@ const Footer =  ({ siteTitle }) => {
         &copy; 2020 {siteTitle}
       </div>
         <div className="social-media">
-          <a href="https://www.facebook.com"><div className="social-facebook">Facebook</div></a>
-          <a href="https://www.twitter.com"><div className="social-twitter">Twitter</div></a>
-          <a href="https://www.instagram.com"><div className="social-instagram">Instagram</div></a>
+          <a href="https://www.facebook.com/sipnotech"><div className="social-facebook">Facebook</div></a>
+          <a href="https://www.twitter.com/sipnotech"><div className="social-twitter">Twitter</div></a>
+          <a href="https://www.instagram.com/sipnotech"><div className="social-instagram">Instagram</div></a>
         </div>
       </div>
     </footer>
