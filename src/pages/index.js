@@ -16,7 +16,6 @@ const IndexPage = () => (
     <SocialProof />
     <ProductBenefits />
     <ProductFeatures />
-    <Testimonials />
     <CallToAction />
   </Layout>
 );
