@@ -6,7 +6,6 @@ import ValueProp from "../components/ValueProp";
 import SocialProof from "../components/SocialProof";
 import ProductBenefits from "../components/ProductBenefits";
 import ProductFeatures from "../components/ProductFeatures";
-import Testimonials from "../components/Testimonials";
 import CallToAction from "../components/CallToAction";
 
 const IndexPage = () => (
