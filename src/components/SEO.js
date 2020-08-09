@@ -29,8 +29,8 @@ function SEO({ description, lang, meta, title }) {
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
-          name: `description`,
-          content: metaDescription,
+          name: `Sipnotech`,
+          content: We create IT solutions for small businesses and startups,
         },
         {
           property: `og:title`,
