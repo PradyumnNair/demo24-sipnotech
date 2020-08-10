@@ -35,7 +35,7 @@ const Header = ({ siteTitle }) => {
           <ul className={navClasses}>
             <li className={navItemClasses}><a href="#About">About</a></li>
             <li className={navItemClasses}><a href="#Products">Products</a></li>
-            <li className={`${navItemClasses} nav-item-bold`} ><Link to="Partner">Partner with us</Link></li>
+            <li className={`${navItemClasses} nav-item-bold`} ><Link to="#Partner">Partner with us</Link></li>
           </ul>
           <div className={burgerClass} onClick={toggle}>
             <div className="burger-line-1"></div>
