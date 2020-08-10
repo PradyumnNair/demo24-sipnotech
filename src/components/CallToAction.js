@@ -5,9 +5,9 @@ const CallToAction = props => {
 
   return (
     <section className="cta">
-      <h1>Try our awesome product.</h1>
-      <p>There&apos;s nothing to lose. 30 days free trial.</p>
-      <Button label="Get Started" />
+      <h1>Partner with us to create amazing digital solutions</h1>
+      <p>One stop destination for building and delivering your ideas into reality</p>
+      <Button href="https://wa.me/917989854956" label="Get Started" />
     </section>
   )
 };
