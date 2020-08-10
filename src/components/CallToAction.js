@@ -10,7 +10,7 @@ const CallToAction = props => {
    <section className="Partner">
       <h1>Partner with us to create amazing digital solutions</h1>
       <p>One stop destination for building and delivering your ideas into reality</p>
-      <Link to="https://wa.me/917989854956"> <Button label="Get Started" /></Link>
+      <a target="_blank" href="https://wa.me/917989854956"> <Button label="Get Started" /></a>
     </section></section>
   )
 };
