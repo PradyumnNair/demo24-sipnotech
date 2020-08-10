@@ -32,7 +32,16 @@ const Header = ({ siteTitle }) => {
               </Link>
             </h4>
           </div>
-     
+          <ul className={navClasses}>
+            <li className={navItemClasses}><a href="#About">About</a></li>
+            <li className={navItemClasses}><a href="#Products">Products</a></li>
+            <li className={`${navItemClasses} nav-item-bold`} ><a href="#Partner">Partner with us</a></li>
+          </ul>
+          <div className={burgerClass} onClick={toggle}>
+            <div className="burger-line-1"></div>
+            <div className="burger-line-2"></div>
+            <div className="burger-line-3"></div>
+          </div>
         </div>
       </nav>
     </header>
