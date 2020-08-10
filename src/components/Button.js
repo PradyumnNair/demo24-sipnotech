@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Button = ({ label }) => (
-  <button className="button">
+const Button = ({ label ,href}) => (
+  <button href={href} className="button">
     {label}
   </button>
 );
