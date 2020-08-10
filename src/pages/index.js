@@ -10,15 +10,7 @@ import CallToAction from "../components/CallToAction";
 
 const IndexPage = () => (
   <Layout>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-T12D9JTHMV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-T12D9JTHMV');
-</script>
     <SEO title="Home" />
     <ValueProp />
     <SocialProof />
