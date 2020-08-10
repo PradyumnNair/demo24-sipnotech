@@ -33,8 +33,8 @@ const Header = ({ siteTitle }) => {
             </h4>
           </div>
           <ul className={navClasses}>
-            <li className={navItemClasses}><Link to="/#about">About</Link></li>
-            <li className={navItemClasses}><Link to="/#services">Services</Link></li>
+            <li className={navItemClasses}><Link to="/#why">Why Sipnotech?</Link></li>
+            <li className={navItemClasses}><Link to="/#services">Our services</Link></li>
             <li className={`${navItemClasses} nav-item-bold`} ><Link to="/#partner">Partner with us</Link></li>
           </ul>
           <div className={burgerClass} onClick={toggle}>
