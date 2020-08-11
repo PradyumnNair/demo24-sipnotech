@@ -30,7 +30,7 @@ function SEO({ description, lang, meta, title }) {
       meta={[
         {
           name: `description`,
-          content: Software development,SEO and Digital marketing for small businesses,
+          content: metaDescription,
         },
         {
           property: `og:title`,
