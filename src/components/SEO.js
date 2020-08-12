@@ -67,8 +67,8 @@ function SEO({ description, lang, meta, title }) {
 
 SEO.defaultProps = {
   lang: `en`,
-  meta: [],
-  description: ``,
+  meta: [We provide digital transformation services to start ups and small businesses],
+  description: `Digital transformation services for local businesses and start ups in India`,
 }
 
 SEO.propTypes = {
