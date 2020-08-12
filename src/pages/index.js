@@ -21,3 +21,11 @@ const IndexPage = () => (
 );
 
 export default IndexPage;
+module.exports = {
+  siteMetadata: {
+    title: `Pandas Eating Lots`,
+    // highlight-start
+    description: `Digital transformation solutions for small businesses and start ups`,
+    author: `sipnotech`,
+    // highlight-end
+  }'
