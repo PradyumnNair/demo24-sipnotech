@@ -1,10 +1,13 @@
+
+
+
 // layouts
 $maxContainerWidth: 80%;
 
 // colors
 $mainColor: #ffa500;
-$secondaryColor: 000000;
-$backgroundColor: rgba(242,242,242, 0.4);
+$secondaryColor: rgba(242,242,242, 0.4);
+$backgroundColor: #ffffff;
 $textColor: #1b262c;
 
 // can get more granular
@@ -17,3 +20,4 @@ $productFeatureColor: $backgroundColor;
 $testimonialsBackgroundColor: $secondaryColor;
 $ctaBackgroundColor: $backgroundColor;
 $buttonColor: $mainColor;
+
