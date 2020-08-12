@@ -19,4 +19,4 @@ const IndexPage = () => (
     <CallToAction />
   </Layout>
 );
-
+export default IndexPage;
