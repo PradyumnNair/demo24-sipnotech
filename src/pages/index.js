@@ -20,12 +20,3 @@ const IndexPage = () => (
   </Layout>
 );
 
-export default IndexPage;
-module.exports = {
-  siteMetadata: {
-    title: `Sipnotech`,
-    // highlight-start
-    description: `Digital transformation solutions for small businesses and start ups`,
-    author: `sipnotech`,
-    // highlight-end
-  }'
