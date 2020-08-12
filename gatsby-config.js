@@ -22,8 +22,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-landing-page-starter`,
-        short_name: `landing`,
+        name: `sipnotech official`,
+        short_name: `sipnotech`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#675CE2`,
