@@ -34,7 +34,7 @@ const ProductFeatures = props => {
             </svg>
           </div>
           <h2>Growth mindset</h2>
-          <p>We bring the latest technologies and innovations to your digital solutions thereby growing your digital portfolio and ours simultaneously </p>
+          <p>We bring the latest technologies and innovations . </p>
         </div>
         <div className="core-feature-2">
           <div className="core-feature-1-image">
