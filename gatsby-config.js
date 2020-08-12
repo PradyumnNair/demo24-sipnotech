@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: `Sipnotech`,
     description: `Digital transformation solutions for small businesses and start ups`,
-    siteUrl: `https://sipnotech.com.com`,
+    siteUrl: `https://sipnotech.com`,
     author: `sipnotech`,
   },
   plugins: [
