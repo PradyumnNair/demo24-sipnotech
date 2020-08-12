@@ -3,7 +3,7 @@ $maxContainerWidth: 80%;
 
 // colors
 $mainColor: #ffa500;
-$secondaryColor: rgba(242,242,242, 0.4);
+$secondaryColor: 000000;
 $backgroundColor: rgba(242,242,242, 0.4);
 $textColor: #1b262c;
 
@@ -16,4 +16,4 @@ $productBenefitsColor: $secondaryColor;
 $productFeatureColor: $backgroundColor;
 $testimonialsBackgroundColor: $secondaryColor;
 $ctaBackgroundColor: $backgroundColor;
-$buttonColor: #FF4500;
+$buttonColor: $mainColor;
