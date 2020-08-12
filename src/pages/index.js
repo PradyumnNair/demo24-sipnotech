@@ -23,7 +23,7 @@ const IndexPage = () => (
 export default IndexPage;
 module.exports = {
   siteMetadata: {
-    title: `Pandas Eating Lots`,
+    title: `Sipnotech`,
     // highlight-start
     description: `Digital transformation solutions for small businesses and start ups`,
     author: `sipnotech`,
