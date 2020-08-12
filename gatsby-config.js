@@ -6,7 +6,7 @@ module.exports = {
     description: `Digital transformation solutions for small businesses and start ups`,
     siteUrl: `https://sipnotech.com.com`,
     author: `sipnotech`,
-  };
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
